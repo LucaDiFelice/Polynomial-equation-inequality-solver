@@ -6,4 +6,4 @@ def LongDivion():
     print("do long divison")
     
 def UserInput():
-    print("What is the polynomial degree")
+    dergee = input( "What is the degree of the polynomial:\n" )
