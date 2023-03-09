@@ -4,16 +4,25 @@ import math
 
 def main():
 
-def CreateThePolynomial():
-
-    An = []
-
     counter = 0
 
     dergee = input( "What is the degree of the polynomial:\n" )
 
-    Xn = []
+    polynomial = input( "Enter in the polynomial numbers (add spaces):\n" )
 
-    while ( counter <= dergee ):
+
+def LongDivision( divisor, divident, quotient, remainder ):
+    print( "" )
+
+
+def FactorTheorem():
+    print( "" )
+
+
+
+    
+
+
+
 
         
