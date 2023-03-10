@@ -10,14 +10,16 @@ def main():
 
     An = []
 
-    dergee = input( "What is the degree of the polynomial:\n" )
+    NumOfValues = input( "How many Numbers are there:" )
 
-    polynomial = input( "Enter in the polynomial (add spaces):\n" )
+    for 
+def LongDivision( divisor, divident ):
 
-    Xn = polynomial.replace("", "",)
+    remainder = 0
 
-def LongDivision( divisor, divident, quotient, remainder ):
-    print( "" )
+    quotient = 0
+
+
 
 
 def FactorTheorem( polynomial ):
